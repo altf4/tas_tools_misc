@@ -24,3 +24,14 @@ https://github.com/altf4/slippi-ssbm-asm/tree/exi-hw-test
 
 ### GCI Building
 The ASM is built into a GCI (memory card save file) using a fork of Dan Salvato's GCI compiler:
+https://github.com/altf4/melee-gci-compiler
+
+
+## Credit
+So I don't forget who all to thank:
+- Ownasaurus
+- PracticalTAS
+- UnclePunch
+- Fizzi
+- Krohnos
+- Nikki
