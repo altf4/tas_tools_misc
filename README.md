@@ -26,6 +26,9 @@ https://github.com/altf4/slippi-ssbm-asm/tree/exi-hw-test
 The ASM is built into a GCI (memory card save file) using a fork of Dan Salvato's GCI compiler:
 https://github.com/altf4/melee-gci-compiler
 
+### Firmware Files
+TI Board firmware with working(?) EXI writes.
+[TI board Firmware](TI_Firmware_exi_writes_v1.out)
 
 ## Credit
 So I don't forget who all to thank:
