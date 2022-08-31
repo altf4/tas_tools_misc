@@ -20,7 +20,7 @@ for i in range(len(buffer) // 8):
     # Segment start marker
     if (pad[1] & 0x02):
         print("start", pad, i)
-        segment_start_marker.append(i-142)
+        segment_start_marker.append(i-166)
     # Segment start marker
     if (pad[1] & 0x01):
         print("end", pad, i)

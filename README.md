@@ -19,7 +19,7 @@ In order to "install" the libmelee above, the easiest way is to copy-paste the `
 
 ### ASM
 The custom Slippi ASM is here:
-https://github.com/altf4/slippi-ssbm-asm/tree/exi-hw-test
+https://github.com/altf4/slippi-ssbm-asm/tree/tastm32-allstar
 (using the console output of course)
 
 ### GCI Building
