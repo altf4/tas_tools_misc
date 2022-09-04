@@ -1,5 +1,10 @@
 #!/usr/bin/python3
-"""Determine the distance between two seeds"""
+"""Determine the distance between two seeds
+
+./rng_distance.py -s 0xC88F4F11 -f 0x765C83BB
+Distance: 10
+"""
+
 
 import argparse
 import sys
