@@ -5,7 +5,6 @@
 Distance: 10
 """
 
-
 import argparse
 import sys
 
@@ -45,11 +44,13 @@ def get_random_float():
     top_bits = get_seed() // 2**16
     return top_bits / 65536
 
-
 i = 0
 while True:
     if seed == final_seed:
         print("Distance:", i)
+        sys.exit(0)
+    if i >= 1000000:
+        print("No luck after", i, "iterations")
         sys.exit(0)
     next_seed()
     i += 1
